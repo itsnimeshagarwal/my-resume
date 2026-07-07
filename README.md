@@ -1,5 +1,5 @@
 # Nimesh Agarwal - Resume
 
-If the PDF preview doesn't load, please access the resume using the direct link below:
+📄 **Resume:** [Nimesh_Agarwal_Resume.pdf](./Nimesh_Agarwal_Resume.pdf)
 
-https://raw.githubusercontent.com/itsnimeshagarwal/my-resume/main/Nimesh_Agarwal_Resume.pdf
+Thank you for visiting my GitHub.
