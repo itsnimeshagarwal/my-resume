@@ -1,5 +1,5 @@
-# Nimesh Agarwal - Resume
+# Resume
 
-📄 **Resume:** [Nimesh_Agarwal_Resume.pdf](./Nimesh_Agarwal_Resume.pdf)
+If the PDF preview doesn't load, please access the resume using the direct link below:
 
-Thank you for visiting my GitHub.
+https://raw.githubusercontent.com/itsnimeshagarwal/my-resume/main/Nimesh_Agarwal_Resume.pdf
