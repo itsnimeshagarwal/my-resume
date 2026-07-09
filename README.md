@@ -1,5 +1,5 @@
 # Nimesh Agarwal - Resume
 
-📄 **Resume:** [Nimesh_Agarwal__Resume.pdf](./Nimesh_Agarwal__Resume.pdf)
+📄 **Resume:** [Nimesh_Agarwal___Resume.pdf](./Nimesh_Agarwal___Resume.pdf)
 
 Thank you for visiting my GitHub.
